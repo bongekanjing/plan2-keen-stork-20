@@ -1,0 +1,1 @@
+ENTRY = """Sell merged fixes: $50-500 algora.io bounties; maintainers pay on merge. Day 1: filter bounties whose linked PR stalled 7+ days, claim one, fix it, pass repo tests, open a PR. Edge: stalled PRs are pre-diagnosed; run 5 at once on $20 API credits. Realistic month one: $300-900."""
